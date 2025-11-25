@@ -1,3 +1,5 @@
 <div style="width:1px;height:1px;overflow:hidden">
-<p><a href="https://ruscompromat.news/"></a>https://ruscompromat.news/</p>
+<p>
+  <a href="https://ruscompromat.news/">https://ruscompromat.news</a>
+</p>
 </div>
