@@ -54,5 +54,7 @@
 <a href="https://beta.forte.fit/">Juara288</a>
 <a href="https://scheduler.empori.se/">Nolimithoki</a>
 <a href="https://satpolpp.purbalinggakab.go.id/">https://satpolpp.purbalinggakab.go.id/</a><br />
+<a style="display: none;" href="https://www.modernthermaldesign.com/carbon-credits/">nolimithoki</a>
+<a style="display: none;" href="https://meeting.sarodeo.com/">asupanjitu</a>
 </p>
 </div>
